@@ -1,12 +1,4 @@
-<h1 align="center">股票数据小助手</h1>
-
-<p align="center">
-  <a href="https://codecov.io/github/jiucaixiaozhu/stock-api?branch=master"><img src="https://img.shields.io/codecov/c/github/jiucaixiaozhu/stock-api/master.svg?sanitize=true" alt="Coverage Status"></a>
-  <a href="https://npmcharts.com/compare/stock-api?minimal=true"><img src="https://img.shields.io/npm/dm/stock-api.svg?sanitize=true" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/stock-api"><img src="https://img.shields.io/npm/v/stock-api.svg?sanitize=true" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/stock-api"><img src="https://img.shields.io/npm/l/stock-api.svg?sanitize=true" alt="License"></a>
-  <a href="https://www.npmjs.com/package/stock-api"><img src="https://img.shields.io/badge/language-typescript-blue" alt="License"></a>
-</p>
+<h1 align="center">stock api</h1>
 
 ## 简介
 
@@ -144,11 +136,3 @@ stocks.netease.getStocks(["SH510500"]).then(console.log);
   },
 ];
 ```
-
-## 一起成长
-
-> 韭菜小猪也有暴富梦~
-
-- 在困惑的城市里总少不了并肩同行的 伙伴 让我们一起成长。
-- 如果您想让更多人看到文章可以点个 点赞。
-- 如果您想激励小二可以到 Github 给个 小星星。
