@@ -1,0 +1,35 @@
+{
+  "name": "rainbow-ball-api",
+  "version": "1.0.0",
+  "description": "Stock data analysis related interface",
+  "repository": "https://github.com/qiuchenghui/rainbow-ball-api",
+  "author": "qiuchenghui",
+  "keywords": [
+    "stock",
+    "data analysis",
+    "api"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest --config jestconfig.json --coverage",
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "files": [
+    "dist/**/*"
+  ],
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/lodash": "^4.17.21",
+    "@types/superagent": "^8.1.4",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "lodash": "^4.17.21",
+    "superagent": "^8.1.2"
+  }
+}
